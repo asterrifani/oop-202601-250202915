@@ -25,4 +25,4 @@ kendala yang saya hadapi yaitu saat menginstal maven, pada saat memanggil perint
 
 ## Dokumentasi
 ![Verfikasi Tools](asset/minggu-01-1.png)
-![Bukti Running .\scripts\uji.ps1](asset/minggu-01-2.png)
+![Bukti uji](asset/minggu01-2.png)
